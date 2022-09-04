@@ -1,3 +1,5 @@
 Informe seu e-mail:
 
 Cria sua senha:
+
+Digite seu nome:
